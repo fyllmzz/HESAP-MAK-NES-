@@ -1,0 +1,10 @@
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap makinesii.csprojAssemblyReference.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap_makinesii.Form1.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap_makinesii.Properties.Resources.resources
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap makinesii.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap makinesii.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\bin\Debug\hesap makinesii.exe.config
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\bin\Debug\hesap makinesii.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\bin\Debug\hesap makinesii.pdb
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap makinesii.exe
+C:\Users\Casper\Desktop\ÖNEMLİ PROGELERİM\hesap makinesii\hesap makinesii\obj\Debug\hesap makinesii.pdb
